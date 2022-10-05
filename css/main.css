@@ -32,25 +32,31 @@ header {
 #main-logo { width: 300px; padding: 10px 0;}
 
 /* header rules here*/
-#character_nav {
-    text-align: center;
-    background-color: black;
-}
+#character_nav { text-align: center; background-color: black;}
 
 .character { list-style-type: none;}
 .character li { display: inline-block;}
      
-.character li img {
-    width: 150px;
-     cursor: pointer;
-
+.character li img {width: 150px; cursor: pointer; 
 
 }
+
 article {padding: 20px;}
+
 article h3 {
 font-size: 2em;
 text-align: center;
 margin-bottom: 14px;
+
+}
+article p {
+    width: 80%;
+    font-size: 18px;
+    line-height: 1.2;
+    text-align: inherit;
+    margin: 0 auto;
+
+
 
 }
 /* footer rules here*/
