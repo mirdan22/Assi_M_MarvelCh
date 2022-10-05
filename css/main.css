@@ -34,10 +34,10 @@ header {
 /* header rules here*/
 #character_nav { text-align: center; background-color: black;}
 
-.character { list-style-type: none;}
-.character li { display: inline-block;}
+.characters { list-style-type: none;}
+.characters li { display: inline-block;}
      
-.character li img {width: 150px; cursor: pointer; 
+.characters li img {width: 150px; cursor: pointer; 
 
 }
 
