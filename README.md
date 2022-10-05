@@ -1,6 +1,6 @@
 # Masrvel Character bio build
 
-TODO: Write a project description
+All about marvel heros! Click on an image to learn more.
 
 All about Marvel's character lineup 
 
@@ -22,7 +22,7 @@ TODO: Write history
 
 ## Credits
 
-TODO: Write credits
+All images are copyright by Marvel.
 
 ## License
 
